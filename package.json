@@ -1,11 +1,9 @@
 {
-  "name": "@emirayka/typescript-rollup-boilerplate",
-  "version": "0.0.1",
-  "description": "Typescript + rollup + babel boilerplate",
+  "name": "@emirayka/result",
+  "version": "0.0.2",
+  "description": "Rust-like result type for typescript.",
   "keywords": [
-    "boilerplate",
     "library",
-    "rollup",
     "typescript"
   ],
   "homepage": "https://github.com/emirayka/typescript-rollup-boilerplate",
